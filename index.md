@@ -2,6 +2,7 @@
 <video controls>
   <source src="output_free.mp4" type="video/mp4">
  </video>   
+ 
 **_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**
 
 You can use the [editor on GitHub](https://github.com/samcodee/turbo-charger/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,4 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
