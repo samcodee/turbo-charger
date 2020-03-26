@@ -5,39 +5,7 @@ THIS IS A WEBSITE PROJECT CREATED FOR LEARNING [HTML](https://www.w3schools.com/
   <source src="output_free.mp4" type="video/mp4">
  </video>   
  
-**_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**. To learn more about us, visit our "[about us](https://samcodee.github.io/turbo-charger/about-us.md)" page.
+**_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**. To learn more about us, visit our "[about us](https://samcodee.github.io/about-us)" page.
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samcodee/turbo-charger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### WHY IS **_TURBO CHARGER_**, **_CARCLUB_** AND **_CAR_** ARE CREATED?
+To understand that, you need to first understand what is **_CARCLUB_**. Carclub is a team created by four students. In the team, each team member will bring some facts or information about cars. Thus, the name Carclub. You might think why we done a website for this small thing but, we done this to learn HTML, CSS and JavaScript. Then we wanted to open the site to worldwide. So, we wanted a domain. that's where GITHUB comes into play. We created a repository in Github and hosted our wesite. One such website is Turbo-charger.
