@@ -5,8 +5,8 @@ THIS IS A WEBSITE PROJECT CREATED FOR LEARNING [HTML](https://www.w3schools.com/
   <source src="output_free.mp4" type="video/mp4">
  </video>   
  
-**_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**. To learn more about us, visit our "[about us](https://samcodee.github.io/turbo-charger/about-us.md) page.
-.
+**_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**. To learn more about us, visit our "[about us](https://samcodee.github.io/turbo-charger/about-us.md)" page.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
