@@ -1,11 +1,12 @@
 ## Welcome to **_TURBO CHARGER_**
+THIS IS A WEBSITE PROJECT CREATED FOR LEARNING [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp)
+
 <video controls>
   <source src="output_free.mp4" type="video/mp4">
  </video>   
  
 **_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**
-
-You can use the [editor on GitHub](https://github.com/samcodee/turbo-charger/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
