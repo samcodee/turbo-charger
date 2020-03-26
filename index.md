@@ -1,30 +1,13 @@
-<style>
-.twovideos{
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; 
-  height: 0;
-}
-.twovideos video{
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
 ## Welcome to **_TURBO CHARGER_**
 THIS IS A WEBSITE PROJECT CREATED FOR LEARNING [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp)
-<div class="twovideos">
+
 <video controls>
   <source src="output_free.mp4" type="video/mp4">
  </video>
  
 <video controls>
   <source src="output_free.mp4" type="video/mp4">
- </video>
- </div
- 
+ </video
  
 **_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**.
 
