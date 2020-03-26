@@ -7,7 +7,7 @@ THIS IS A WEBSITE PROJECT CREATED FOR LEARNING [HTML](https://www.w3schools.com/
  
 <video controls>
   <source src="output_free.mp4" type="video/mp4">
- </video
+ </video>
  
 **_TURBO CHARGER_** is an another version of **_[CARCLUB](https://samcodee.github.io/carclub/)_**. It is the third version **_CARCLUB_**. The second version of **_CARCLUB_** is **_[CAR](https://samcodee.github.io/car/)_**.
 
